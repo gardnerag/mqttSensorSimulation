@@ -1,5 +1,17 @@
 // node program.js options={id:Bedienpult1,mqttServer:192.168.178.44}
 
+/*
+* Project           : Minimal MQTT Sensor Simulation 
+*
+* Program name      : mqttSensorSimulation.js
+*
+* Author            : Stephen Gardner
+*
+* Date created      : 08/17/2018
+*
+* License						:	MIT License
+*
+*/
 
 /*
 	Include a license text for open source
