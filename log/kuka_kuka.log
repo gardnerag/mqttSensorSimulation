@@ -1,0 +1,9 @@
+UDP Server listening on 192.168.178.143:49152
+{ CFG: 
+   { devType: 999,
+     devName: 'kuka',
+     devID: 'kuka',
+     nAIN: 6,
+     nDIN: 8,
+     nDOT: 8 },
+  ERR: 0 }
