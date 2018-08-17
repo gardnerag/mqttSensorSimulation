@@ -7,6 +7,10 @@
 *
 * Author            : Stephen Gardner
 *
+*	Contact						:	stephen.gardner@gardner-ag.com
+*
+*	Company						: gardner ag, Kelterstraße 59, 72669 Unterensingen, Germany
+*
 * Date created      : 08/17/2018
 *
 * License						:	MIT License
